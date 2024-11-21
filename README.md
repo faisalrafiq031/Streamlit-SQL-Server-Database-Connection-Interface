@@ -32,7 +32,7 @@ A streamlined, user-friendly app built with Streamlit to connect to SQL Server d
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/streamlit-sql-server-interface.git
+   git clone https://github.com/faisalrafiq031/streamlit-sql-server-interface.git
    cd streamlit-sql-server-interface
    ```
 
